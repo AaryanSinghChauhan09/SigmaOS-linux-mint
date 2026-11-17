@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-linux-mint"
-description = "Linux Mint Cinnamon usability and X-Apps integration"
+description = "SigmaOS component SigmaOS-linux-mint"
 version = "0.1.0"
 tier = 4
 
