@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-linux-mint"
+version = "0.1.0"
+category = "reference"
+description = "SigmaOS Linux Mint — reference integration and compatibility layer"
